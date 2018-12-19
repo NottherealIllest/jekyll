@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Effectively debugging Node.js"
-date:   2014-01-03 16:57:51
+date:   2014-04-30 16:57:51
 ---
 
 Debugging is the task to identify and remove errors from software applications, and is more than just printing out values in your code. This post describes how to efficiently debug Node.js programs using the latest Google Chrome DevTools. A lot of developers use console.log in order to debug their application. but why? The answer is easy: It’s inconvenient to use the debugger if you haven’t set up your environment correctly. 
