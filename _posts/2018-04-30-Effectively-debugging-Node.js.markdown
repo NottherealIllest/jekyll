@@ -35,4 +35,4 @@ For this example  a simple web server was created. In order to debug this applic
 
 As you see, there’s no more need for console.log statements to debug your application code. Just start the debugger of your choice and have a comfortable interface to have a look at your code at run time.
 
-This blogpost was Originally written for Codeship authored by me you can find it here  [here on codeship's blog](https://blog.codeship.com/debug-node-js-effectively-with-chrome-devtools/)
+This blogpost was Originally written for Codeship authored by me you can find it [here on codeship's blog](https://blog.codeship.com/debug-node-js-effectively-with-chrome-devtools/)
