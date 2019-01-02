@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Node.js explained for mannequins"
-date:   2018-01-02 20:38:20
+date:   2019-01-02 20:38:20
 ---
 
 ![](https://static.webpunks.co/uploads/2016/08/nodejs-modules-webentwicklung-webdevelopment-webpunks.jpg)
